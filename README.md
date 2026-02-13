@@ -9,7 +9,9 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-NA
+http://rollbar.com/guides/java/how-to-throw-exceptions-in-java/
+
+https://www.geeksforgeeks.org/java/list-size-method-in-java-with-examples/
 
 ## Verbal Collaboration
 
